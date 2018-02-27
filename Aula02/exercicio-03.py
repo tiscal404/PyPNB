@@ -1,3 +1,5 @@
+#! /usr/bin/python3.6
+
 from datetime import datetime
 
 def ageinseconds(y,m,d):
