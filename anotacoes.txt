@@ -1,0 +1,336 @@
+software carpentry http://software-carpentry.org/lessons/
+
+wikibooks https://en.wikibooks.org/wiki/Python_Programming
+
+wikiversity https://en.wikiversity.org/wiki/Python
+
+google's python class https://developers.google.com/edu/python/
+
+Python Sorocaba
+http://www.youtube.com/playlist?list=PL6f2gQ2RXLosWiXDHM7vOr1MPdfxPAm_t
+
+Blog:
+http://blog.abraseucodigo.com.br
+
+Aulas:
+https://www.youtube.com/watch?v=lJjR906426o&list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe
+
+SlideShare:
+http://pt.slideshare.net/fabianoalmeid/python-web-35245552
+
+https://www.stavros.io/tutorials/python/
+
+Livros Gratuitos:
+http://pythonbooks.revolunet.com/
+
+
+- Lançado em 1991 por Guido van Rossum - National Research Institute for Mathematics and Computer Science in the Netherlands
+- Nome inspirado no Monty Python's Flying Circus
+- O'Reilly editora - animais - simbolo cobra
+- Evolução da linguagem ABC
+- Primeiro Forum Python formado em 1994
+- Linguagem de programação de alto nível de propósito geral
+- Enfatiza a produtividade do programador e a legibilidade do código (Pythonic Way)
+- Biblioteca padrão grande e abrangente ("baterias inclusas")
+- Múltiplos paradigmas de programação: orientação a objetos,
+  (class), imperativo (def), funcional (lambda)
+- Tipagem forte e dinâmica
+- Gerenciamento automático da memória (Garbage Collector)
+- Multiplataforma
+- Free e OpenSource
+- Interpretado
+- Interativo
+- Possibilidade de ser compilado
+
+Releases
+
+Python 1.0 - January 1994
+Python 1.5 - December 31, 1997
+Python 1.6 - September 5, 2000
+Python 2.0 - October 16, 2000
+Python 2.1 - April 17, 2001
+Python 2.2 - December 21, 2001
+Python 2.3 - July 29, 2003
+Python 2.4 - November 30, 2004
+Python 2.5 - September 19, 2006
+Python 2.6 - October 1, 2008
+Python 2.7 - July 3, 2010
+Python 3.0 - December 3, 2008
+Python 3.1 - June 27, 2009
+Python 3.2 - February 20, 2011
+Python 3.3 - September 29, 2012
+Python 3.4 - March 16, 2014
+Python 3.5 - September 13, 2015
+3.7
+
+import this
+
+http://brasil.pyladies.com/
+
+http://softwarelivre.org/fisl17/programacao/pyladies
+
+http://pycursos.com/python-para-zumbis/
+
+https://djangogirls.org/
+
+http://www.tiobe.com/tiobe-index/
+
+Onde é usada ?
+	- Desenvolvimento Web
+	- Computação Científica e Matemática
+	- Educação
+	- Desktops
+	- Mobile kivy
+	- Scripts de Mesa
+	- Robôs
+	- Jogos
+	- 
+https://www.python.org/about/apps/
+
+34191.09008.05776.148248.60364.560007.8.68870000024000
+
+Frameworks Web:
+	- Web2Py
+	- Django
+	- Flask
+	- Tornado
+	- Twist
+	- Pyramid
+	- CherryPy
+	- Plone
+	- Zope
+	- TurboGears
+
+Exemplos de paradigmas:
+	- Imperativa
+		- Linguagem puramente imperativa: Assembly
+		- Outras: Fortran (1956), Cobol, Algol 60, Basic, Pascal, C (1970), Ada (1983)
+		- Define como computar
+		- Dificil leitura
+		- Baseada na Máquina de Turing: Estados
+		- Faça isso, depois aquilo ...
+		- Neste Contexto -> Estruturada
+	- Estruturada (Cobol, PHP, Perl) - 1975
+		- Organização em funções, subrotinas e blocos: Sequência, Decisão e Iteração
+	- Declarativa
+		- Foco: O que se faz e não como ...
+		- Encapsulamento, esconder detalhes
+		- Baseado em paradigmas: funcional, lógica, restritiva
+	- Passagem de Mensagens
+		- Computação distribuída
+	- Orientada a Objetos - Anos 90
+		- Linguagens: C++, C#, VB.NET, Java, Object Pascal, Objective-C, Python, SuperColllider, Ruby, SmallTalk
+		- Com algum suporte: ActionScript, ColdFusion, Javascript, PHP (> 4), Perl (> 5), Visual Basic (> 4)
+		- Conceitos: Classe, Objeto/Instância, Atributo, Método, Mensagem, Herança, Associação, Encapsulamento, Abstração, Polimorfismo, Interface, Pacotes/Namespaces
+	- Procedural
+		- Reutilização de código: Goto, Espaguete, Jump
+		- Fortemente modular e estruturado
+		- Todas são também imperativas
+		- Linguagem: Quase todas, com exceção das Orientada a Objetos
+	- Funcional
+		- Evita estados ou dados mutáveis / Sem memória
+		- Função: Entrada e Saida claramente definida
+		- Forte contraste com as imperativas
+		- Sem laços, usa recursividade (lambda) - Alonzo Church 1936 (Cálculo Lambda)
+	- Orientada a Eventos]
+		- Bastante flexível e permite um sistema assíncrono
+	- Restritiva
+		- Ineficiente
+		- Trabalha tentando resolver uma lista de restrições: Ex: Três numeros somados devem ser maiores que 200
+		- Encontrar solução que satisfaça todas as restrições
+	- Lógica
+		- Primeira linguagem: Planner, evolução -> Prolog (1972) -> Oz, Mercury, Frill, Visual Prolog
+		- Base na lógica matemática
+		- Comumente usada na área de I.A.
+		- Compreensão da Linguagem natural
+	- Orientada a Fluxos
+	- Escalar
+	- Vetorial
+	- Aspecto
+	- Regras
+	- Tabelas
+	- Fluxo de Dados
+	- Políticas
+	- Testes
+	- Modular
+	- Genérica
+		- Gramática Estendida, adaptação às partes variáveis
+		- List<T> ao invés de List<Animal>
+		- 1970 - já rodava em Clu e Ada
+		- Implementada em linguagens recentes: C++, D, Beta, Eiffel, Java(> 1.5), .Net(> 2), Haskell, OCaml
+		- Tipos Parametrizados
+	- Multiparadigma
+		- Nenhum paradigma resolve todos os problemas de maneira elegante ou eficiente. Deixe o programador escolher.
+		- Linguagens: C++, Groovy, Oz, Ruby, Scala, Swift, Groovy, Python
+
+Discussão Compilação:
+https://www.toptal.com/python/por-que-h-tantos-pythons/pt
+
+Python is an interpreted language, as opposed to a compiled one, though the distinction can be blurry because of the presence of the bytecode compiler. This means that source files can be run directly without explicitly creating an executable which is then run.
+
+
+https://docs.python.org/3/
+
+
+Instalação do Python
+
+- Linux - já vem de fábrica
+- Mac - já vem de fábrica
+- Windows - instalador disponível em:
+	- https://www.python.org/downloads
+
+Referência
+	- https://docs.python.org/3/
+	- http://python.org.br/
+	- 
+
+Livros:
+	- Python para Desenvolvedores
+		https://ark4n.wordpress.com/python/
+	- 
+
+Grupos:
+	- Python Internacional:
+		https://groups.google.com/forum/#!forum/python
+	- Python Brasil
+		https://groups.google.com/forum/#!forum/python-brasil
+
+
+
+Responsáveis:
+	Python Software Foundation:
+		- https://www.python.org/psf/
+		The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers.
+
+
+
+
+http://docs.python-guide.org/en/latest/starting/which-python/
+
+http://stackoverflow.com/questions/10579824/what-is-the-difference-between-python-vs-jython-vs-ironpython-vs-wxpython
+
+https://wiki.python.org/moin/PythonImplementations
+
+https://repl.it/languages/python3
+
+http://www.pythontutor.com/live.html#mode=edit
+
+
+
+
+
+
+
+
+Aula 4 - Listas
+
+https://developers.google.com/edu/python/lists
+http://www.diveintopython.net/native_data_types/lists.html
+http://effbot.org/zone/python-list.htm
+
+http://www.secnetix.de/olli/Python/list_comprehensions.hawk
+
+Sets - Conjuntos
+https://pythonhelp.wordpress.com/2013/06/18/conjuntos-em-python/
+
+
+Dicionários
+https://developers.google.com/edu/python/dict-files
+http://www.bogotobogo.com/python/python_dictionary_comprehension_with_zip_from_list.php\
+http://openbookproject.net/thinkcs/python/english3e/dictionaries.html
+https://learnpythonthehardway.org/book/ex39.html
+
+tuplas
+http://stackoverflow.com/questions/2174124/why-do-we-need-tuples-in-python-or-any-immutable-data-type
+
+
+http://wiki.python.org.br/ExerciciosListas
+http://diego.wikidot.com/codigos-dos-exercicios-listas
+
+
+
+
+Aula 5
+
+
+
+Aula 7
+
+https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming
+https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/
+https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_funcional
+http://blog.jenkster.com/2015/12/what-is-functional-programming.html
+http://stackoverflow.com/questions/36504/why-functional-languages
+
+fudido
+https://newcircle.com/bookshelf/python_fundamentals_tutorial/functional_programming
+
+
+Curso Python Pernambucanas
+
+Aula 1 (08/08/2016 - Segunda):
+	- Introdução à Linguagem
+	- Pontos Fortes e Fracos
+	- Quando Utilizar
+	- Instalação e Configuração Inicial
+	- Primeiros Comandos
+Aula 2 (11/08/2016 - Quinta):
+http://prezi.com/kpdoe_d_qg6k
+	- Tipos de Variáveis
+	- Expressões
+	- Estruturas Básicas
+Aula 3 (15/08/2016 - Segunda):
+http://prezi.com/rtme3y2yt8gb
+	- Controle de Fluxo
+	- Condicionais
+	- Laços
+Aula 4 (18/08/2016 - Quinta):
+http://prezi.com/b8rfq-gd_jgs
+	- Listas
+	- Dicionários
+	- Tuplas
+Aula 5 (22/08/2016 - Segunda):
+http://prezi.com/tl-nhgxatr4r
+	- Tratamento de Exceção
+	- Criando Funções
+	- Aprofundando na Classe String
+	- Lidando com Arquivos e I/O
+Aula 6 (30/08/2016 - Terça):
+	- Módulos
+	- Conhecendo pacotes padrão
+	- Lidando com Imports
+	- Expressões Regulares
+Aula 7 (02/09/2016 - Sexta):
+	- Programação Funcional
+	- Lambda
+	- Map Reduce
+	- List Comprehension
+	- Generator Expression
+Aula 8 (06/09/2016 - Terça):
+	- Programação Orientada a Objetos
+	- Classes
+	- Herança Simples e Múltipla
+	- Propriedades
+	- Sobrecarga de Operadores
+	-Coleções
+Aula 9 (09/09/2016 - Sexta):
+	- Banco de Dados
+	- Acessando diversos bancos
+	- Rodando Comandos SQL
+Aula 10 (13/09/2016 - Terça):
+	- Paralelismo
+	- Computação Distribuída
+	- Multi Thread
+Aula 11 (16/09/2016 - Sexta)
+	- Módulo Numpy
+	- Módulo SciPy
+	- Módulo Pandas
+	- Módulo NLTK - Linguagem Natural
+Aula 12 (20/09/2016 Terça)
+	- Consumindo WebServices
+	- Web Scrapping
+	- Hackeando a Web
+
+
+
+

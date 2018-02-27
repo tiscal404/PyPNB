@@ -1,0 +1,64 @@
+Curso Python Pernambucanas
+
+Aula 1 (08/08/2016 - Segunda):
+	- Introdução à Linguagem
+	- Pontos Fortes e Fracos
+	- Quando Utilizar
+	- Instalação e Configuração Inicial
+	- Primeiros Comandos
+Aula 2 (11/08/2016 - Quinta):
+http://prezi.com/kpdoe_d_qg6k
+	- Tipos de Variáveis
+	- Expressões
+	- Estruturas Básicas
+Aula 3 (15/08/2016 - Segunda):
+http://prezi.com/rtme3y2yt8gb
+	- Controle de Fluxo
+	- Condicionais
+	- Laços
+Aula 4 (18/08/2016 - Quinta):
+http://prezi.com/b8rfq-gd_jgs
+	- Listas
+	- Dicionários
+	- Tuplas
+Aula 5 (22/08/2016 - Segunda):
+http://prezi.com/tl-nhgxatr4r
+	- Tratamento de Exceção
+	- Criando Funções
+	- Aprofundando na Classe String
+	- Lidando com Arquivos e I/O
+Aula 6 (30/08/2016 - Terça):
+	- Módulos
+	- Conhecendo pacotes padrão
+	- Lidando com Imports
+	- Expressões Regulares
+Aula 7 (02/09/2016 - Sexta):
+	- Programação Funcional
+	- Lambda
+	- Map Reduce
+	- List Comprehension
+	- Generator Expression
+Aula 8 (06/09/2016 - Terça):
+	- Programação Orientada a Objetos
+	- Classes
+	- Herança Simples e Múltipla
+	- Propriedades
+	- Sobrecarga de Operadores
+	-Coleções
+Aula 9 (09/09/2016 - Sexta):
+	- Banco de Dados
+	- Acessando diversos bancos
+	- Rodando Comandos SQL
+Aula 10 (13/09/2016 - Terça):
+	- Paralelismo
+	- Computação Distribuída
+	- Multi Thread
+Aula 11 (16/09/2016 - Sexta)
+	- Módulo Numpy
+	- Módulo SciPy
+	- Módulo Pandas
+	- Módulo NLTK - Linguagem Natural
+Aula 12 (20/09/2016 Terça)
+	- Consumindo WebServices
+	- Web Scrapping
+	- Hackeando a Web
